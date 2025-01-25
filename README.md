@@ -6,7 +6,7 @@ Terminal base chatbot with DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf
 
 ### CLONE THE REPO
 ```
-
+git clone https://github.com/fabiomatricardi/DeepSeekQwen_AIO.git
 ```
 
 the main project directory will be called `DeepSeekQwen_AIO`
